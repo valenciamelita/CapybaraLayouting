@@ -1,0 +1,95 @@
+/* Valencia Melita C - 0706022210007*/
+
+.navigation-bar{
+    background-color: lightgray;
+    padding: 20px;
+}
+
+p{
+    margin: 0;
+}
+
+body{
+    margin:0;
+}
+
+.capybara-font{
+    font-family: 'Courier New', Courier, monospace;
+    margin-left: 10px;
+}
+.regular-font{
+    font-family: "Arial";
+}
+
+.three-column-header{
+    background-color: lightpink;
+    justify-content: space-between;
+    align-items: center;
+    display: flex;
+    padding: 40px 150px ;
+    margin-left: 10px;
+
+}
+.capybara-center{
+    margin-top: -55px;
+}
+
+.capybara-link{
+    text-decoration: none;
+    color: green;
+}
+
+.three-column-content{
+    background-color: antiquewhite;
+    margin-left: 10px;
+    padding-top: 10px;
+    column-count: 3;
+    column-gap: 10px;
+    padding-bottom:10px;
+}
+
+.image{
+    text-align: center;
+}
+
+.two-column-content{
+    background-color: aliceblue;
+    margin-left: 10px;
+    column-count: 2;
+    column-gap: 10px;
+    margin-top:0;
+    padding-left: 15px;
+}
+
+.capybara-habitat h1{
+    line-height: 5px;
+    margin-bottom: 33px;
+    
+}
+
+.capybara-diet-image, .capybara-habitat-image {
+    text-align: center;
+    margin: 20px
+}
+
+.one-column-content{
+    background-color: blanchedalmond;
+    margin-left: 10px;
+    margin-top: -21px;
+    padding-bottom: 50px;
+}
+
+
+#capybara-activity-right{
+    float: right;
+    margin-left: 10px
+}
+
+#capybara-activity-left{
+    float: left;
+    margin-right: 10px;
+}
+
+.footer{
+    text-align: center;
+}
